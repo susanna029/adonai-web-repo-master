@@ -1,0 +1,79 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<header class="site-header">
+    	<div class="container for-navi">
+        	<div class="site-logo">
+            <h1>
+                <a href="index.html">
+                    <span class="logo-icon"><i class="fa fa-heart"></i></span>
+                    <span class="logo-text">Adonai<span>Church</span></span>
+                    <span class="logo-tagline"></span>
+                </a>
+            </h1>
+            </div>
+            <!-- Main Navigation -->
+            <nav class="main-navigation" role="navigation">
+                <ul class="sf-menu">
+                    <li><a href="javascript:void(0)">About us</a>
+                  		<ul class="dropdown">
+                    		<li><a href="../about.html">Our Story</a></li>
+                    		<li><a href="../our-beliefs.html">Our Beliefs</a></li>
+                    		<li><a href="../Victor&Annie.html">Victor & Annie</a></li>
+                    		<li><a href="../staff.html">Our Staff</a></li>
+                   		</ul>
+                    </li>
+                    <li><a href="javascript:void(0)">Church Life</a>
+                    	<ul class="dropdown">
+                            <li><a href="../Connect.html">Connect</a></li>
+                            <li><a href="../Serve.html">Serve</a></li> 
+						    <li><a href="../Living free.html">Living free</a></li> 
+							<li><a href="../Testimonies.html">Testimonies</a></li>
+                          <li><a href="../events-grid.html">Events</a></li>
+                       	</ul>
+                   	</li>
+                    
+					
+
+                  <li class="megamenu"><a href="javascript:void(0)">Ministries</a>
+                   		<ul class="dropdown">
+                        	<li>
+                          		<div class="megamenu-container container">
+                            		<div class="row">
+                             			<div class="col-md-4 hidden-sm hidden-xs">
+                              				<span class="megamenu-sub-title">Put videos</span>
+                                            <div class="fw-video">
+                                                <iframe src="https://player.vimeo.com/video/37540860?title=0&amp;byline=0&amp;portrait=0" width="500" height="281"></iframe>
+                                            </div>
+                              			</div>
+                              			<div class="col-md-5"> <span class="megamenu-sub-title">Use for some content</span>
+                    						<p>Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.Aenean vulputate eleifend tellus.</p>
+                                        </div>
+                                        <div class="col-md-3"> <span class="megamenu-sub-title">Our Ministries</span>
+                                            <ul class="sub-menu">
+                                                <li><a href="../Encounter with God.html">Encounter with God</a></li>
+                                                <li><a href="../Healing and deliverance Conference.html">Healing and deliverance Conference</a></li>
+                                                <li><a href="../Prayer Ministry Seminar.html">Prayer Ministry Seminar</a></li>
+                                                <li><a href="../Adonai Bible School.html">Adonai Bible School</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                      	</ul>
+                    </li>
+                    <li><a href="../Radiant School.html">Radiant School</a></li>
+					<li><a href="../sermons-list.html">Sermons</a></li>
+					<li><a href="../contact.html">Contact</a></li>
+                	<li><a href="../donate.html">Give</a></li>
+					<li><a href="javascript:void(0)">Resources</a>
+							<ul class="../dropdown">
+                    		<li><a href="../Book.html">Book</a></li>
+                    		<li><a href="../Downloads.html">Downloads</a></li>
+                   		</ul>
+					
+					</li>
+
+                </ul>
+            </nav>
+            <a href="#" class="visible-sm visible-xs" id="menu-toggle"><i class="fa fa-bars"></i></a>
+    	</div>
+	</header>
